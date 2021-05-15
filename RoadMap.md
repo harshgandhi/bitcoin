@@ -7,4 +7,12 @@ Fork off the Bitcoin Core code for its followintg useful features
 4. Privace Features and future development
 
 ## Make changes to Bitcoin code with following features
-1. Make it inflationary like Dogecoin
+1. Make it inflationary like Dogecoin with 5% inflation rate
+2. Premine of 1 billion coins given out to 100 addresses
+3. Make it proof of Stake instead of proof of work
+
+## Mobile wallet design
+1. Give it Child and Parent mode
+2. Inbuilt time locked Deposit feature
+3. Automatic lightning channel creation and all transactions go through lightning
+4. 12 word seed
