@@ -10,6 +10,7 @@ Fork off the Bitcoin Core code for its followintg useful features
 1. Make it inflationary like Dogecoin with 5% inflation rate
 2. Premine of 1 billion coins given out to 100 addresses
 3. Make it proof of Stake instead of proof of work
+4. 1 Minute block time
 
 ## Mobile wallet design
 1. Give it Child and Parent mode
