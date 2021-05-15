@@ -16,3 +16,4 @@ Fork off the Bitcoin Core code for its followintg useful features
 2. Inbuilt time locked Deposit feature
 3. Automatic lightning channel creation and all transactions go through lightning
 4. 12 word seed
+5. Payment APIs to provide or deny access by signing the transaction instead of true/false mechanism
